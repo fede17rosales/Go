@@ -1,0 +1,1 @@
+mongodb+srv://<username>:<password>@twitter.yh2ki.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
